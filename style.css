@@ -8,14 +8,7 @@ header{
   width: 100%;
   height: 100px;
   justify-content: center;
-}
-.noto-sans-<uniquifier> {
-  font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  font-family:"Noto Sans", sans-serif;
 }
 .logo svg {
   width: 32px;
